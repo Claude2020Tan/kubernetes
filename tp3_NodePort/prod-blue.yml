@@ -4,6 +4,7 @@ metadata:
   name: simple-webapp-color-blue
   labels:
     app: web
+  namespace: production
 spec:
   containers:
   - name: web
